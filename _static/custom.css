@@ -1,0 +1,30 @@
+/* Responsive tables — no horizontal scrollbar, text wraps */
+table.docutils {
+    width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    display: table !important;
+    overflow: visible !important;
+}
+
+table.docutils td,
+table.docutils th {
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    white-space: normal !important;
+    vertical-align: top;
+    padding: 8px 12px;
+}
+
+/* Remove RTD default overflow:auto on table wrapper */
+.wy-table-responsive {
+    overflow: visible !important;
+    margin-bottom: 24px;
+}
+
+/* Admonition spacing */
+.admonition {
+    margin-bottom: 1.5em;
+}
