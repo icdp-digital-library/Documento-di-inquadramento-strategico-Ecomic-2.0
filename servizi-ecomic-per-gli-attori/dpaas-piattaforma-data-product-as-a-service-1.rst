@@ -27,9 +27,9 @@ Contributo agli obiettivi di Ecomic
      <thead>
        <tr>
          <th style="width:20%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;"></th>
-         <th style="width:26%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">**Abilitazione**</th>
-         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">**Interoperabilità**</th>
-         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">**Valorizzazione**</th>
+         <th style="width:26%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">Abilitazione</th>
+         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">Interoperabilità</th>
+         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">Valorizzazione</th>
        </tr>
      </thead>
      <tbody>
@@ -64,7 +64,7 @@ DPaaS fornisce un ambiente pronto all'uso con tecnologie avanzate, spazio comput
    - Numero di collaborazioni pubblico-private per ciascuna iterazione del modello di procurement innovativo
    - Tasso di riutilizzo dei bundle tecnologici
 
-Obiettivo 2 – interoperabilità
+Obiettivo 2 – Interoperabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Contributo: **DPaaS opera come punto di integrazione tra l’infrastruttura e le applicazioni esterne.**
