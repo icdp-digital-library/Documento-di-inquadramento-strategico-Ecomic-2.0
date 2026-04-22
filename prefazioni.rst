@@ -12,6 +12,7 @@ La connessione fra la dimensione strutturale e quella di mercato è vitale per s
 | Roberto Balzani
 | Professore ordinario di Storia contemporanea
 | Università di Bologna
+\
 
 Il patrimonio culturale costituisce un pilastro fondamentale dell'identità collettiva e della memoria storica di un Paese, rappresentando un inestimabile valore sociale, economico e culturale. Nell'era della transizione digitale, si aprono nuove opportunità per la valorizzazione, la ricerca, la conservazione e la diffusione del patrimonio culturale stesso, richiedendo visioni strategiche ambiziose e strumenti innovativi per cogliere pienamente queste potenzialità.
 
@@ -27,6 +28,7 @@ Guardando al futuro, la sfida centrale sarà quella di ampliare costantemente il
 | Deborah Agostino
 | Professoressa Associata, Direttrice dell’Osservatorio Innovazione Digitale per la Cultura
 | Politecnico di Milano
+\
 
 Il progetto Ecomic nasce dalla consapevolezza che il concetto di :term:`ecosistema digitale` culturale, pur essendo da tempo al centro del dibattito settoriale, ha raramente trovato attuazione in realtà pienamente funzionanti. I tentativi di scalare esperienze di successo si sono spesso scontrati con ostacoli strutturali: substrati tecnologici inadeguati, frammentazione delle basi dati, carenza di servizi realmente utili e, soprattutto, l'assenza di meccanismi di moltiplicazione del valore.
 
