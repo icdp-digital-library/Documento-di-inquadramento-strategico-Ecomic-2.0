@@ -19,9 +19,9 @@ Contributo agli obiettivi di Ecomic
      <thead>
        <tr>
          <th style="width:20%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;"></th>
-         <th style="width:26%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">**Abilitazione**</th>
-         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">**Interoperabilità**</th>
-         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">**Valorizzazione**</th>
+         <th style="width:26%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">Abilitazione</th>
+         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">Interoperabilità</th>
+         <th style="width:27%; padding:8px 12px; background:#3d3d8f; color:white; font-weight:bold; border:1px solid #ddd;">Valorizzazione</th>
        </tr>
      </thead>
      <tbody>
@@ -56,7 +56,7 @@ D.PaC abilita la digitalizzazione e descrizione  del patrimonio culturale per tu
    - Numero di risorse digitali collaudate positivamente
    - Percentuale di risorse digitali prodotte da enti senza sistema informativo culturale proprio
 
-Obiettivo 2 – interoperabilità
+Obiettivo 2 – Interoperabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Contributo: D.PaC adotta standard di metadatazione e strumenti di verifica che assicurano, a partire dalla fonte, l’integrazione semantica e tecnologica dei beni digitali   nell’ecosistema.
