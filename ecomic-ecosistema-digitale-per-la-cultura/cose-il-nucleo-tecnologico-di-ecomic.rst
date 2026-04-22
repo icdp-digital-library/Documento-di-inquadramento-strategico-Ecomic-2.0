@@ -9,9 +9,9 @@ Questa sezione ne introduce i tre sistemi: D.PaC, I.PaC e DPaaS, che verranno ma
    :align: center
    :alt: Il nucleo tecnologico di Ecomic: D.PaC, I.PaC e DPaaS
 
-****D.PaC è la piattaforma che supporta in modo strutturato ed efficiente la gestione, il monitoraggio e il controllo delle campagne di digitalizzazione dei beni culturali.****
+**D.PaC è la piattaforma che supporta in modo strutturato ed efficiente la gestione, il monitoraggio e il controllo delle campagne di digitalizzazione dei beni culturali.**
 
-****I.PaC è l’infrastruttura centrale di Ecomic che integra il patrimonio culturale digitale e ne rende possibile la gestione avanzata e la piena valorizzazione.****
+**I.PaC è l’infrastruttura centrale di Ecomic che integra il patrimonio culturale digitale e ne rende possibile la gestione avanzata e la piena valorizzazione.**
 
 **DPaaS è uno spazio di sperimentazione dove trasformare e combinare dati culturali per creare nuovi elaborati, ottenuti attraverso processi di** :term:`arricchimento` **dei dati stessi.**
 
