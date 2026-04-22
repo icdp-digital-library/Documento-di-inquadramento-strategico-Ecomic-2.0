@@ -19,7 +19,7 @@ Beni digitali
 Risorsa digitale
 ~~~~~~~~~~~~~~~~
 
-**Una risorsa digitale****è un’entità digitale composta da uno o più oggetti digitali (o media) e da una componente informativa, formata da metadati amministrativi e gestionali.**
+**Una risorsa digitale è un’entità digitale composta da uno o più oggetti digitali (o media) e da una componente informativa, formata da metadati amministrativi e gestionali.**
 
 La risorsa digitale può essere creata nativamente in digitale – per esempio, una video-intervista, un sito web – o derivare dalla conversione di materiali analogici – per esempio, una scansione di un manoscritto su carta – e assume significato e valore nel contesto in cui è ospitata e descritta. Nel contesto di sistemi digitali strutturati (quali biblioteche e archivi digitali, *repository* complessi), la risorsa digitale è anche un’entità logica e fisica, utilizzata per aggregare e gestire oggetti digitali legati a uno o più record informativi, secondo logiche gerarchiche (contenitori, sotto-contenitori, collezioni, cartelle *smart*).
 
@@ -32,7 +32,7 @@ Esempio: Un manoscritto del XV secolo conservato presso una biblioteca storica �
 Descrizione  
 ~~~~~~~~~~~~
 
-**La descrizione****è un dispositivo informativo che documenta l’identità di un oggetto fisico o concettuale e ne esplicita le relazioni significative in un** ambiente digitaleattraverso un insieme strutturato di metadati descrittivi. Costituisce, in altre parole, una rappresentazione dell’oggetto e del suo contesto **di senso.**
+**La descrizione è un dispositivo informativo che documenta l’identità di un oggetto fisico o concettuale e ne esplicita le relazioni significative in un ambiente digitaleattraverso un insieme strutturato di metadati descrittivi. Costituisce, in altre parole, una rappresentazione dell’oggetto e del suo contesto di senso.**
 
 Attraverso la descrizione, l’oggetto fisico o concettuale è reso accessibile, interrogabile e interoperabile, assumendo una forma computabile che ne permette l’arricchimento anche automatico. Svolge un ruolo fondamentale per abilitare percorsi di conoscenza, fruizione e riuso.
 
